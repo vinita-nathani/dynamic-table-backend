@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic-table-backend", "dynamic-table-backend\dynamic-table-backend.csproj", "{EE3C4F44-FF5B-472F-8FED-90F930E12BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3C4F44-FF5B-472F-8FED-90F930E12BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3C4F44-FF5B-472F-8FED-90F930E12BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3C4F44-FF5B-472F-8FED-90F930E12BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3C4F44-FF5B-472F-8FED-90F930E12BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DE6AC5-7F43-461D-8952-4ADBD71CCD0A}
+	EndGlobalSection
+EndGlobal
